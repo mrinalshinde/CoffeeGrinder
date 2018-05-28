@@ -1,0 +1,15 @@
+\contentsline {chapter}{Introduction}{2}
+\contentsline {chapter}{Modelling the Project}{4}
+\contentsline {section}{\numberline {0.1} The Tasks }{5}
+\contentsline {section}{\numberline {0.2} The Resources }{5}
+\contentsline {section}{\numberline {0.3} The Interested Parties }{5}
+\contentsline {section}{\numberline {0.4} The Environment }{6}
+\contentsline {chapter}{Structuring the Project}{7}
+\contentsline {section}{\numberline {0.5} Work Breakdown Structure }{7}
+\contentsline {section}{\numberline {0.6} Responsibility Matrix }{8}
+\contentsline {chapter}{Gannt Chart}{10}
+\contentsline {chapter}{Network Analysis}{12}
+\contentsline {chapter}{Final Product }{14}
+\contentsline {chapter}{Marketing}{15}
+\contentsline {chapter}{Monitoring and Controlling}{16}
+\contentsline {chapter}{Conclusion}{17}
